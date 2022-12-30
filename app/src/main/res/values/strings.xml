@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prvi Kotlin Primjer</string>
+    <string name="pozdravna_poruka">Dobar dan!</string>
+</resources>
